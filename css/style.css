@@ -57,6 +57,9 @@ main {
 
 }
 
+table {
+    border-spacing: 0px;
+}
 
 #name {
     color: white;
