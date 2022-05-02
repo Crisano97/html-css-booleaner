@@ -51,9 +51,12 @@ figure {
 figcaption {
     font-size: 10px;
 }
-table {
-    margin: 5px
+
+main {
+    margin-left: 5px;
+
 }
+
 
 #name {
     color: white;
@@ -67,4 +70,32 @@ table {
 .sottolineato {
     max-width: fit-content;
     background-color: yellow;
+}
+
+h3 {
+    color: gray;
+}
+
+#prima {
+    background-image: url(../img/monitor.jpg);
+    width: 260px;
+    height: 200px;
+    max-height: 200px;
+    background-size: cover;
+}
+
+#seconda {
+    background-image: url(../img/graph.jpg);
+    width: 260px;
+    height: 200px;
+    max-height: 200px;
+    background-size: cover;
+}
+
+.caption {
+    color: white;
+    font-size: 20px;
+}
+footer {
+    margin: 20px 0 30px 5px;
 }
