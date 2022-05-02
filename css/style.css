@@ -2,8 +2,7 @@ body {
     margin: 0;
 }
 
-
-img {
+#logo {
     width: 200px;
     margin-top: 30px;
     margin-left: 5px;
@@ -15,4 +14,57 @@ img {
     background-image: url(../img/pattern.png);
     background-size: 400px;
 
+}
+
+h1 {
+    font-size: 50px;
+    margin: 10px 200px 0px 5px;
+}
+
+#autore {
+    color: gray;
+    font-size: 20px;
+    margin: 0px 0px 10px 5px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(11, 205, 240);
+}
+
+.data {
+    font-size: 15px;
+}
+
+figure {
+    margin-left: 5px; 
+}
+
+.tim-photo {
+    width: 600px;
+}
+
+.tim-photo-2 {
+    width: 700px;
+}
+
+figcaption {
+    font-size: 10px;
+}
+table {
+    margin: 5px
+}
+
+#name {
+    color: white;
+    background-color: rgb(49, 172, 237);
+}
+
+.colorato {
+    background-color: rgba(97, 226, 252, 0.4);
+}
+
+.sottolineato {
+    max-width: fit-content;
+    background-color: yellow;
 }
