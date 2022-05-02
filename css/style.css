@@ -59,9 +59,10 @@ main {
 
 table {
     border-spacing: 0px;
+    text-align: left;
 }
 
-.sdrogo {
+.rows {
     width: 30%;
 }
 
