@@ -1,0 +1,114 @@
+body {
+    margin: 0;
+}
+
+#logo {
+    width: 200px;
+    margin-top: 30px;
+    margin-left: 150px;
+}
+
+#pattern {
+    height: 100px;
+    background-color: rgb(0, 179, 255);
+    background-image: url(../img/pattern.png);
+    background-size: 400px;
+
+}
+
+h1 {
+    font-size: 45px;
+    margin: 10px 150px 0px 5px;
+}
+
+#autore {
+    color: gray;
+    font-size: 20px;
+    margin: 0px 0px 10px 5px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(11, 205, 240);
+}
+
+.data {
+    font-size: 15px;
+}
+
+figure {
+    margin-left: 5px; 
+}
+
+.tim-photo {
+    width: 550px;
+}
+
+.tim-photo-2 {
+    width: 640px;
+}
+
+figcaption {
+    font-size: 10px;
+}
+
+main {
+    margin-left: 150px;
+    margin-right: 100px;  
+}
+
+table {
+    border-spacing: 0px;
+    text-align: left;
+}
+
+.rows {
+    width: 30%;
+}
+
+#name {
+    color: white;
+    background-color: rgb(49, 172, 237);
+}
+
+.colorato {
+    background-color: rgba(97, 226, 252, 0.4);
+}
+
+.sottolineato {
+    max-width: fit-content;
+    background-color: yellow;
+}
+
+h3 {
+    color: gray;
+}
+
+#prima {
+    background-image: url(../img/monitor.jpg);
+    width: 260px;
+    height: 200px;
+    max-height: 200px;
+    background-size: cover;
+    padding-top: 10px;
+}
+
+#seconda {
+    background-image: url(../img/graph.jpg);
+    width: 260px;
+    height: 200px;
+    max-height: 200px;
+    background-size: cover;
+    margin-top: 20px;
+    padding-top: 10px;
+
+}
+
+.caption {
+    color: white;
+    font-size: 20px;
+    padding: 20px 0px 0px 10px;
+}
+footer {
+    margin: 20px 100px 30px 150px;
+}
