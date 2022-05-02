@@ -61,6 +61,11 @@ table {
     border-spacing: 0px;
 }
 
+th, td {
+    padding: 10px 100px 10px 0px;
+    text-align: left;
+  }
+
 #name {
     color: white;
     background-color: rgb(49, 172, 237);
